@@ -7,7 +7,7 @@
 - You will use the the Yelp API to search your home town for a cuisine type of your choice.
 - Next class, we will then use Plotly Express to create a map with the Mapbox API to visualize the results.
 - Check out this Example MAP:
-[![png](Figures/ExampleMap.png)](https://chart-studio.plotly.com/~dojopurvi/3/#/)   
+[![png](Figures/ExampleMap.png)](https://chart-studio.plotly.com/~dojopurvi/3/#/)]   
     
 
 ## Tools You Will Use
